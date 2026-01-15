@@ -2,9 +2,22 @@
 
 > *Entiéndase "deberíamos saber" como una combinación de "nos debería sonar", "no nos debería sorprender", "deberíamos conocer", "deberíamos saber manejar", en función del tema abordado. En cualquier caso, lo mínimo es "no nos debería sorprender" y deberíamos poder tener una mínima conversación o lectura sobre estos temas.*
 
-## 23 de octubre
+## 20 de noviembre
+
+- Lo que **realmente implica** un array multidimensional.
+- Introducción a los métodos estáticos.
+
+## 13 de noviembre
+
+- Variable referencia y arrays.
+- Todo lo que implica crear un array, qué hace una variable de referencia, el operador de asignación.
+- Tiempo de vida de un array.
+- Consumo de memoria.
+
+## 23 / 28 / 30 de octubre
 
 - Repaso de todo lo visto hasta hoy, revisión de propuestas de código enviadas al repo, varias formas de resolver un mismo problema, código limpio, buenas prácticas.
+- Ejercicios, retos, solución paso a paso en grupo, enfatizando en el proceso de construcción y los porqués de las decisiones que guían la construcción de la solución.
 
 ## 9 de octubre
 
